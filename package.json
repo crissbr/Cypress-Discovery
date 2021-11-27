@@ -1,0 +1,14 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitacao do app BugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Cristiane Cordeiro",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.1.0"
+  }
+}
